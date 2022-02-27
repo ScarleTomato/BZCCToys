@@ -1,0 +1,29 @@
+[GameObjectClass]
+classLabel = "ibfact"
+
+
+/////// PROVIDES ///////////////////
+provideCount = 2
+provideName1 = "ibfact"
+provideName2 = "VIRTUAL_CLASS_FACTORY"
+
+////////////////////////////////////
+
+[PoweredBuildingClass]
+
+[BuildingClass]
+
+[FactoryClass]
+WeaponConfig = "iweapon.odf"
+
+[BuildGroup1]
+buildLabel = "Mortar Bikes"
+buildItem1 = "ivmbike"
+buildItem2 = "ivhmbike_gh"
+
+[BuildGroup2]
+buildLabel = "Missile Scouts"
+buildItem1 = "ivmisl"
+buildItem2 = "ivgnat"
+
+[Lod1]

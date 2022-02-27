@@ -1,0 +1,13 @@
+[RecyclerList]
+ODFName = "ivrecy_st"
+Description = "Toybox Recycler"
+
+[RecyclerListMPI]
+ODFName = "ivrecy_st"
+Description = "Toybox Recycler"
+
+[IAHumanRecyclerList]
+ODFName = "ivrecy_st"
+Description = "Toybox Recycler"
+
+

@@ -1,0 +1,25 @@
+[GameObjectClass]
+classLabel = "ibrecy"
+unitName = "Toybox Recycler"
+
+/////// PROVIDES ///////////////////
+
+provideCount = 5
+provideName1 = "ibrecy"
+provideName2 = "ibrecycpu"
+provideName3 = "ibrecy_gh_c"
+provideName4 = "VIRTUAL_CLASS_RECYCLER"
+provideName5 = "VIRTUAL_CLASS_RECYCLERBUILDING"
+
+////////////////////////////////////
+
+[PoweredBuildingClass]
+
+[BuildingClass]
+
+[FactoryClass]
+buildItem5 = "ivcons_st"
+buildItem9 = "ivgnat"
+buildItem10 = "ivgnA2A"
+
+[RecyclerClass]
