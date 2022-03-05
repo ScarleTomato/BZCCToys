@@ -1,0 +1,16 @@
+[GameObjectClass]
+classLabel = "ibgtow"
+unitName = "Gun Tower II"
+
+requireCount = 1
+requireName1 = "ibsbay"
+requireText1 = "Build Service Bay"
+
+weaponMask = 00011
+weaponName1 = "gmgun"
+weaponAssault1 = 0
+weaponName2 = "gmgun"
+weaponAssault2 = 0
+
+[CraftClass]
+WeaponsConverge = false

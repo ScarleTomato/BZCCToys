@@ -1,0 +1,16 @@
+[GameObjectClass]
+classLabel = "ibm2tow"
+unitName = "MAG V Tower"
+PowerCost = 5
+
+upgradename = "ibm6tow"
+
+weaponName1 = "gmag5"
+weaponName2 = "gmag5"
+
+[CraftClass]
+rangeScan = 200
+engageRange = 130
+
+[TurretCraftClass]
+detectRange = 200

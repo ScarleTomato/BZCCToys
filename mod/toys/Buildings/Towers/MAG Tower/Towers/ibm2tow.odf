@@ -1,0 +1,20 @@
+[GameObjectClass]
+classLabel = "ibm1tow"
+scrapCost = 70
+unitName = "MAG II Tower"
+PowerCost = 2
+upgradename = "ibm3tow"
+
+requireCount = 1
+requireName1 = "ibtcen"
+requireText1 = "Build Tech Center"
+
+weaponName1 = "gmag2"
+weaponName2 = "gmag2"
+
+[CraftClass]
+rangeScan = 200
+engageRange = 200
+
+[TurretCraftClass]
+detectRange = 200

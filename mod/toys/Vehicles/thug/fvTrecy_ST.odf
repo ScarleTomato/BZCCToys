@@ -1,0 +1,5 @@
+[GameObjectClass]
+classLabel = "ivrecy"
+
+[DeployBuildingClass]
+deployName = "ibTrecy_ST"

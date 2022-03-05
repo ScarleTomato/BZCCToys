@@ -1,0 +1,27 @@
+[GameObjectClass]
+classLabel = "ibtrain"
+scrapCost = 80
+scrapValue = 30
+maxHealth = 5000
+unitName = "Training/Tech Center"
+isSingle = 0
+
+armorClass = H
+
+requireCount = 2
+requireName1 = "ibarmo"
+requireText1 = "Build Armory"
+requireName2 = "ibsbay"
+requireText2 = "Build Service Bay"
+
+provideCount = 7
+provideName1 = "ibtrain"
+provideName2 = "ibStrain"
+provideName3 = "VIRTUAL_CLASS_BARRACKS"
+provideName4 = "ibtcen"
+provideName5 = "ibStcen"
+provideName6 = "VIRTUAL_CLASS_TECHCENTER"
+provideName7 = "base"
+
+[BarracksClass]
+pilotHold = 500

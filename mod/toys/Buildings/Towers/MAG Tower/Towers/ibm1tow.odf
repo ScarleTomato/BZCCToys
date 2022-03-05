@@ -1,0 +1,18 @@
+[GameObjectClass]
+classLabel = "ibgtow"
+scrapCost = 30
+scrapValue = 3
+unitName = "MAG I Tower"
+PowerCost = 0
+
+upgradename = "ibm2tow"
+
+buildSupport = "A"
+buildRequire = "F"
+
+weaponName1 = "gmag1"
+weaponName2 = "gmag1"
+
+[CraftClass]
+rangeScan = 200
+engageRange = 200

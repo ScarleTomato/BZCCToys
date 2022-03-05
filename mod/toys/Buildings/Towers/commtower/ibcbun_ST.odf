@@ -1,0 +1,11 @@
+[GameObjectClass]
+classLabel = "ibcbun"
+categoryTypeOverride = 4
+
+UpgradeName = "ibctow_ST"
+
+[CommBunkerClass]
+MinViewDist = 50// If specified, minimum height of commbunker view
+MaxViewDist = 600.0 // If specified, maximim height of commbunker view
+
+[PoweredBuildingClass]
