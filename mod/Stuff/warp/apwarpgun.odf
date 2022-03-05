@@ -1,6 +1,0 @@
-[GameObjectClass]
-classLabel = "apspecial"
-scrapCost = 50
-
-[WeaponPowerupClass]
-weaponName = "gwarpgun"
