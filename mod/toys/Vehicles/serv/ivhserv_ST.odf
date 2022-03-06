@@ -1,8 +1,6 @@
 [GameObjectClass]
 baseName = "ivhserv_ST"
 geometryName = "ivhserv.xsi"
-//geometryName = "ivserv_skel.xsi"
-cockpitName = "ivserv_cockpit.xsi"
 classLabel = "serviceH"
 scrapValue = 20
 scrapCost = 60

@@ -2,7 +2,7 @@
 classLabel = "ibcbun"
 categoryTypeOverride = 4
 
-UpgradeName = "ibctow_ST"
+// UpgradeName = "ibctow_ST"
 
 [CommBunkerClass]
 MinViewDist = 50// If specified, minimum height of commbunker view

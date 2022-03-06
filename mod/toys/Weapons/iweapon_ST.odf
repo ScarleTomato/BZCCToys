@@ -13,18 +13,20 @@ weaponName3 = "apsstb"
 weaponName4 = "applas"
 weaponName5 = "apblst"
 weaponName6 = "apmagg"
-weaponName7 = "apslug_L"
+// weaponName7 = "apslug_L"
 
 [Rocket]
 weaponCount = 3
 weaponName1 = "apfafm"
 weaponName2 = "aptagg"
-weaponName3 = "apshdw_ST"
+weaponName3 = "apshdw"
+// weaponName3 = "apshdw_ST"
 
 [Mortar]
 weaponCount = 4
 weaponName1 = "apartl"
-weaponName2 = "apmdmg_ST"
+// weaponName2 = "apmdmg_ST"
+weaponName2 = "apmdmg"
 weaponName3 = "apmort"
 weaponName4 = "apspln"
 

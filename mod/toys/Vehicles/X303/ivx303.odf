@@ -3,7 +3,6 @@ baseName = "ivx303"
 geometryName = "ivx303.xsi"
 geometryScale = 5.0
 boxCollide = 1
-geometryName = "ivcons_skel.xsi"
 classLabel = "sav"
 scrapValue = 90
 scrapCost = 130

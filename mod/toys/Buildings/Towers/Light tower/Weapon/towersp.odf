@@ -1,13 +1,5 @@
 [OrdnanceClass]
-classLabel = "bullet"
-
-shotGeometry = NULL
-shotSound = "igtow04.wav"
-xplGround = "xsupergnd"
-xplVehicle = "xsupercar"
-xplBuilding = "xsuperbld"
-
-renderName = "spstab_a.render"
+classLabel = "spstab_a"
 
 ammoCost = 30
 lifeSpan = 2.0

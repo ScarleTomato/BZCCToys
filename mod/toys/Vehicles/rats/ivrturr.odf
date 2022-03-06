@@ -1,0 +1,27 @@
+[GameObjectClass]
+classLabel = "ivturr"
+unitName = "Rocket(C) Turret"
+
+/////// weapons ////////////////////
+weaponMask = 00011
+weaponHard1 = "HP_ROCKET_1"
+weaponName1 = "gfafmsl_c"
+recoilName1 = "recoil1"
+weaponAssault1 = 0
+weaponHard2 = "HP_ROCKET_1"
+weaponName2 = "gfafmsl_c"
+recoilName2 = "recoil2"
+weaponAssault2 = 0
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 4.0f
+engageRange = 200
+
+attackTask = "AssaultTankAttack"
+subAttackTask = "SupportSubAttack"
+subAttackClass = "ADS"
+// subAttackClass uses 3 letters.
+// 1st letter is either A or N.     A is include Air targets.         N is attack ground only.
+// 2nd letter is either D or N.     D is to deploy before attacking.  N for regular attack.
+// 3rd letter is either S or N.     S is to use Weapon Range.         N is use the Engage Range to attack. 

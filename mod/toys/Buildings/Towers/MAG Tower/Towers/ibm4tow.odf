@@ -1,9 +1,13 @@
 [GameObjectClass]
-classLabel = "ibm2tow"
+classLabel = "ibgtow"
+scrapCost = 70
 unitName = "MAG IV Tower"
 PowerCost = 4
-
 upgradename = "ibm5tow"
+
+requireCount = 1
+requireName1 = "ibtcen"
+requireText1 = "Build Tech Center"
 
 weaponName1 = "gmag4"
 weaponName2 = "gmag4"

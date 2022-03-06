@@ -11,7 +11,7 @@ Aware_v13 = true
 // here, in case some custom map just set the values to really weird
 // values
 RaceHuman = 105 // 105 = ascii 'i' for ISDF, 102 = 'f' for Scion
-RaceCPU = 99 // 105 = ascii 'i' for ISDF, 102 = 'f' for Scion
+RaceCPU = 102 // 105 = ascii 'i' for ISDF, 102 = 'f' for Scion
 
 // Items below are stubs. Uncomment the lines (remove the leading //)
 // for them to take effect.

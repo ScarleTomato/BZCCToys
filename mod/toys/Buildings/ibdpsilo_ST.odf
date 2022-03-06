@@ -3,7 +3,7 @@
 LeaveExplodeScorch = false
 allowMDMCollisionDetonation = 1
 
-geometryName = "ibbase00.xsi"
+geometryName = "ibcrat02.fbx"
 classLabel = "silo"
 scrapCost = 10
 scrapValue = 5

@@ -1,5 +1,5 @@
 [GameObjectClass]
-classLabel = "ibm1tow"
+classLabel = "ibgtow"
 scrapCost = 70
 unitName = "MAG II Tower"
 PowerCost = 2

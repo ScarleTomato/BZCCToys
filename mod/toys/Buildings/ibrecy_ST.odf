@@ -10,6 +10,7 @@ upgradeName = "ivrecy_ST"
 [FactoryClass]
 WeaponConfig = "iweapon_ST.odf"
 buildItem4 = "ivtug_ST"
+buildItem5 = "ivcons_ST"
 buildItem8 = "ivscoutmt_ST"
 buildItem9 = "ivping"
 buildItem10 = "srvspwn"
@@ -32,17 +33,19 @@ buildEmptyItem = 6
 [BuildGroup3]
 buildlabel = "Defences"
 buildItem1 = "ivturr"
-buildItem3 = "ivtup"
-[BuildGroup5]
-buildlabel = "Construction"
-buildItem1 = "ivcons_ST"
-buildItem3 = "ivfcons_ST"
+buildItem2 = "ivmturr"
+buildItem3 = "ivrturr"
+buildItem4 = "ivraturr"
+buildItem5 = "ivcturr"
+buildItem6 = "ivcaturr"
+// [BuildGroup5]
+// buildlabel = "Construction"
+// buildItem1 = "ivcons_ST"
+// buildItem3 = "ivfcons_ST"
 [BuildGroup6]
 buildlabel = "Service Trucks"
 buildItem1 = "ivserv"
-buildItem2 = "ivservcmd"
-buildItem3 = "ivservins"
-buildItem4 = "ivhserv_ST"
+buildItem2 = "ivhserv_ST"
 
 
 [RecyclerClass]

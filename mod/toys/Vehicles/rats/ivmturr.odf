@@ -1,0 +1,29 @@
+[GameObjectClass]
+classLabel = "ivturr"
+unitName = "Mortar Turret"
+
+/////// weapons ////////////////////
+weaponMask = 00011
+weaponHard1 = "HP_MORTAR_1"
+weaponName1 = "gmortar"
+recoilName1 = "recoil1"
+weaponAssault1 = 0
+weaponHard2 = "HP_MORTAR_1"
+weaponName2 = "gmortar"
+recoilName2 = "recoil2"
+weaponAssault2 = 0
+
+[CraftClass]
+rangeScan = 400.0f
+periodScan = 5.0f
+velocJam = 0.0f
+engageRange = 300
+
+weaponPitch = 1.5
+
+attackTask = "ArtlAttack"
+subAttackTask = "ArtlSubAttack"
+subAttackClass = "ADS"
+// include air units as attack targets
+// need to deploy to sub attack
+// doesn't move towards unit in sub attack

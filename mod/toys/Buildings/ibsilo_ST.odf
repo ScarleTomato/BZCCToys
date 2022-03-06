@@ -1,7 +1,7 @@
 [GameObjectClass]
 baseName = "ibsilo"
 mrmFactor = 0
-geometryName = "ibsilo00.xsi"
+geometryName = "pbwtow00.fbx"
 classLabel = "silo"
 scrapCost = 40
 scrapValue = 0

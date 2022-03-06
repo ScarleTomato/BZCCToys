@@ -1,6 +1,6 @@
 [GameObjectClass]
 
-baseName = "ivrbomb"
+baseName = "ivrbomb_ST"
 geometryName = "ivrbomb00.xsi"
 
 animCount = 3

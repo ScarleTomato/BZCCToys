@@ -10,7 +10,7 @@ unitName = "Service Platform"
 isAssault = 0
 isSingle = 0
 
-upgradeName = ibsplup_ST
+// upgradeName = ibsplup_ST
 
 armorClass = H
 

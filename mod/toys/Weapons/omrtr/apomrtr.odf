@@ -3,7 +3,7 @@
 [GameObjectClass]
 geometryName = "apspec00.xsi"
 classLabel = "wpnpower"
-scrapCost = 200
+scrapCost = 80
 scrapValue = 0
 maxHealth = 150
 maxAmmo = 0
