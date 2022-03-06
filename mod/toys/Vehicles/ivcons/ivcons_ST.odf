@@ -3,7 +3,7 @@ classLabel = "ivcons"
 
 
 [ConstructionRigClass]
-
+buildItem1 = "ibpgen_ST"
 buildItem2 = "ibfact_ST"
 buildItem3 = "ibcbun_ST"
 buildItem4 = "ibarmo_ST"

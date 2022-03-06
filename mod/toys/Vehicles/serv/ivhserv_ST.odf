@@ -22,8 +22,8 @@ armorClass = L
 /////// REQUIREMENTS ///////////////
 
 requireCount = 1
-requireName1 = "iblbay"
-requireText1 = "Build Assault Bay"
+requireName1 = "ibsbup_ST"
+requireText1 = "Upgrade Service Bay"
 
 ////////////////////////////////////
 

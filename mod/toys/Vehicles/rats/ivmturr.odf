@@ -1,6 +1,8 @@
 [GameObjectClass]
 classLabel = "ivturr"
 unitName = "Mortar Turret"
+scrapCost = 50
+customCost = 60
 
 /////// weapons ////////////////////
 weaponMask = 00011
@@ -27,3 +29,7 @@ subAttackClass = "ADS"
 // include air units as attack targets
 // need to deploy to sub attack
 // doesn't move towards unit in sub attack
+
+[TurretTankClass]
+omegaTurret = 3.0
+alphaTurret = 5.0

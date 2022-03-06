@@ -8,11 +8,11 @@ fireSound = "igtow03.wav"
 wpnReticle = "gmdmgun.0"
 wpnCategory = "MORT"
 isAssault = 0
-aiRange = 100
+aiRange = 400
 flashName = "gmgun.flash"
 
 [CannonClass]
 shotDelay = 2.0
-shotVariance = 0.1
+shotVariance = 2
 
 

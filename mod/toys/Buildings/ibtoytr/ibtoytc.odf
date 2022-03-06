@@ -5,6 +5,7 @@ scrapValue = 30
 maxHealth = 5000
 unitName = "Training/Tech Center"
 isSingle = 0
+powerCost = 2
 
 armorClass = H
 

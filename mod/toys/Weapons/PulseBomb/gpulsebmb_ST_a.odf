@@ -8,7 +8,7 @@ fireSound = "igtow03.wav"
 wpnReticle = "gmdmgun.0"
 wpnCategory = "MORT"
 isAssault = 1
-aiRange = 150
+aiRange = 400
 flashName = "gmgun.flash"
 
 [CannonClass]

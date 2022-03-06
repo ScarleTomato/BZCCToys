@@ -5,8 +5,8 @@ unitName = "Service Bay"
 /////// REQUIREMENTS ///////////////
 
 requireCount = 1
-requireName1 = "iblbay"
-requireText1 = "Build Supply Depot"
+requireName1 = "ibtcen"
+requireText1 = "Build Tech Center"
 
 ////////////////////////////////////
 
@@ -16,7 +16,7 @@ lightHard4 = "hp_light_4"
 lightName4 = "spotorange"
 
 [SupplyDepotClass]
-supplyRange = 40.0
+supplyRange = 200.0
 supplyRate = 250.0
 localAmmoRate = 30.0
 supplySound = "mnu_empt.wav"
@@ -24,7 +24,7 @@ supplySound = "mnu_empt.wav"
 // Individual classification tweakers
 serviceSTs = 1
 serviceCraft = 1
-serviceBuildings = 0
+serviceBuildings = 1
 servicePilots = 1
-serviceOther = 0
+serviceOther = 1
 

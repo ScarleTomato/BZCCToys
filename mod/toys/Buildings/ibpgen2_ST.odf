@@ -1,0 +1,40 @@
+[GameObjectClass]
+classLabel = "ibpgen"
+unitName = "Power II"
+scrapCost = 70
+powerCost = -6
+
+upgradeName = ibpgen3_ST
+
+/////// REQUIREMENTS ///////////////
+requireCount = 1
+requireName1 = ibsbay
+requireText1 - "Build Service Bay"
+
+/////// PROVIDES ///////////////////
+provideCount = 2
+provideName1 = "ibpgen"
+provideName2 = "VIRTUAL_CLASS_POWERPLANT"
+
+/////// LIGHTS & EFFECTS /////
+lightHard1 = "hp_light_1"
+lightName1 = "omniblue-ap"
+lightHard2 = "hp_light_2"
+lightName2 = "omnired-ap"
+lightHard3 = "hp_light_3"
+lightName3 = "omniblue-ap"
+lightHard4 = "hp_light_4"
+lightName4 = "omnired-ap"
+lightHard5 = "hp_light_5"
+lightName5 = "o_yellow_nf"
+
+effectHard1 = "hp_emit_1"
+effectName1 = "emit_yellowblink"
+effectHard2 = "hp_emit_2"
+effectName2 = "emit_yellowblink"
+effectHard3 = "hp_emit_3"
+effectName3 = "emit_yellowblink"
+effectHard4 = "hp_emit_4"
+effectName4 = "emit_yellowblink"
+effectHard5 = "hp_emit_5"
+effectName5 = "emit_yellowblink"

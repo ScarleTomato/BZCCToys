@@ -90,7 +90,7 @@ soundUndeploy = "trundepl.wav"
 
 [ScavengerHClass]
 soundPickup = "suck.wav"
-scrapHold = 60
+scrapHold = 20
 //deployClass = "ibscup"
 //deployOffset = 3.2
 doDrop = true //drop off at neerset silo, extractor, or recy
